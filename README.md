@@ -6,8 +6,8 @@
 
 - [Andrew Carroll](https://github.com/iAmAndrewCarroll)
 - [Bryanna Fox](insert link to GitHub)
-- [Renona Gay](insert link to GitHub)
-- [Will Baur](insert link to GitHub)
+- [Renona Gay](https://github.com/Foodisthebest)
+- [Will Baur](https://github.com/Wrbaur/Wrbaur)
 - [Malena Tomlin](insert link to GitHub)
 
 ### Project Description
