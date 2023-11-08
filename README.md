@@ -26,4 +26,5 @@
 ### Slide Deck (example)
 
 - [My Slide Deck from 401](https://docs.google.com/presentation/d/1WVNK0GfpIdO6P-5To6NuZkjFZdvh4recSulh0l4g8Mo/edit#slide=id.g258d971fb16_0_14)
+- This follows the required slide deck template provided in the assignment
 
