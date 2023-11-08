@@ -8,7 +8,7 @@
 - [Bryanna Fox](insert link to GitHub)
 - [Renona Gay](https://github.com/Foodisthebest)
 - [Will Baur](https://github.com/Wrbaur/Wrbaur)
-- [Malena Tomlin](insert link to GitHub)
+- [Malena Tomlin](https://github.com/mtcf987)
 
 ### Project Description
 
