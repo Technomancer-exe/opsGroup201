@@ -5,7 +5,7 @@
 ### Devs
 
 - [Andrew Carroll](https://github.com/iAmAndrewCarroll)
-- [Bryanna Fox](insert link to GitHub)
+- [Bryanna Fox](https://github.com/BryannaKFox)
 - [Renona Gay](https://github.com/Foodisthebest)
 - [Will Baur](https://github.com/Wrbaur/Wrbaur)
 - [Malena Tomlin](https://github.com/mtcf987)
