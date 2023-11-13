@@ -21,7 +21,7 @@
 
 ### SOPs
 
-- All SOPs will be worked on and committed as Markdow Files.  
+- All SOPs will be worked on and committed as Markdown Files.  
 - All images will be .png file types
 
 ### Slide Deck (example)
