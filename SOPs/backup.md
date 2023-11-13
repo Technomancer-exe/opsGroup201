@@ -16,3 +16,6 @@
    - Conduct regular data recovery tests to ensure the ability to restore data.
    - Document recovery procedures and assign responsibilities.
    - Continuously improve recovery processes based on test results.
+
+**Authors**
+- Malena, Bryanna, Renona, Will and Andrew

@@ -16,3 +16,6 @@
    - Implement strong password policies for all devices.
    - Require complex passwords with a mix of letters, numbers, and special characters.
    - Encourage regular password changes.
+
+**Authors**
+- Malena, Bryanna, Renona, Will and Andrew

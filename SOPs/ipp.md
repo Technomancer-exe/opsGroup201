@@ -16,3 +16,6 @@
    - Conduct regular training sessions to educate employees about the importance of IP protection.
    - Promote a culture of awareness and responsibility regarding intellectual property.
    - Provide guidelines for handling IP when employees leave the company.
+
+**Authors**
+- Malena, Bryanna, Renona, Will and Andrew

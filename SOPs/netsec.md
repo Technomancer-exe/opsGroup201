@@ -21,3 +21,6 @@
    - Establish a schedule for regular updates and patches for all network devices and software.
    - Test updates in a controlled environment before deploying them.
    - Maintain an inventory of all network devices and their software versions.
+
+**Authors**
+- Malena, Bryanna, Renona, Will and Andrew
