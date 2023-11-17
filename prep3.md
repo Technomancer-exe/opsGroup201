@@ -16,39 +16,27 @@
 
 ### System Selection
 
-- 2 Factor Authentication
-  - [Yubikey](https://www.yubico.com/)
-  - [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US)
-  - [Authy](https://authy.com/)
-  - Other options
-  - Why: In order to safeguard the clients IP we need to ensure only authorized users can gain access to the network and assets.  Two Factor ensures the highest level of security at this time.
+- Samba Fileshare
+  - Why: Samba is a scalable fileshare solution that will serve our clients needs now and in the future.
 
-- VPN
-  - Why: Provide a secure tunnel for remote users to access the network and assets.
+- Remote Access via Microsoft Remote Desktop
+  - Why: Microsoft Remote Desktop is a secure and easy to use remote access solution.  This is also scalable and will serve our clients needs now and in the future.
 
-- Data Security
-  - All data remains on company premises
-  - Why: To ensure the IP is not compromised by being stored on the cloud.  The only offsite storage is kept at our facility as a back-up and is offline unless backups are being conducted.
+- Windows Defender - Data Security
+  - Why: To ensure the IP is not compromised and ease of use for our clients.  
 
-- Connectivity Speed
-  - A well designed local network ensures the fastest possible speeds for all users.
-  - Why: To ensure the highest level of productivity for all users.
+- Thunderbird Email Client
+  - Why: Thunderbird is a secure and easy to use email client.  This is also scalable and will serve our clients needs now and in the future.
 
 - Scalability
   - Why: The system is designed to scale easily as the company is poised for rapid expansion.
 
-- Intrusion Prevention
-  - Why: Security measures such as firewalls and intrusion detection systems are in place to ensure the highest level of security for the network and assets.
-
-- VM
-  - Why: VMs provide a secure and isolated environment for accessing data.  Each user can have a dedicated VM that can access the onsite storage and network.
-
 - Hardware
-![Project Wireframe](media/projectwireframe.png)
+![Project Wireframe](media/wireframe.png)
   - Why: The hardware is designed to provide the highest level of security and productivity for all users.
 
 - User Roles
-  - User access is determined by their designation within the company.  Least Privilege Access model...probably.
+  - User access is determined by their designation within the company.  Least Privilege Access model.
 
 ### MVP
 
