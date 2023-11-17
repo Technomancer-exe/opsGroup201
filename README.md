@@ -23,6 +23,7 @@
 
 - All SOPs will be worked on and committed as Markdown Files.  
 - All images will be .png file types
+- Project SOPs related to Space Pirate Industries can be found [here](SOPs/mastersop.md)
 
 ### Slide Deck
 
