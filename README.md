@@ -16,15 +16,16 @@
 
 ### Project Management Tool
 
+- Checkout the milestones, MVPs, and other project related progress here
 - [Trello Board](https://trello.com/b/3tjWW9Ub/201-group-project)
 
 ### SOPs
 
-- All SOPs will be worked on and committed as Markdow Files.  
+- All SOPs will be worked on and committed as Markdown Files.  
 - All images will be .png file types
 
-### Slide Deck (example)
+### Slide Deck
 
-- [My Slide Deck from 401](https://docs.google.com/presentation/d/1WVNK0GfpIdO6P-5To6NuZkjFZdvh4recSulh0l4g8Mo/edit#slide=id.g258d971fb16_0_14)
-- This follows the required slide deck template provided in the assignment
+- [Space Pirate Slide Deck](https://docs.google.com/presentation/d/1p6nGzeAlwlXEcFhzVMi5qCebhxeiHTLOaONaqxhFLEM/edit#slide=id.g29b46e24f73_0_47)
+
 
